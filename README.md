@@ -5,7 +5,7 @@ The Solana Copytrading Bot is running on several solana dex platforms ( Raydium,
 # 👋 Contact Me
 
 ### 
-Telegram: https://t.me/earthzeta
+Telegram: https://t.me/intotheunknown007
 ###
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="https://t.me/intotheunknown007" target="_blank"><img alt="Telegram"
