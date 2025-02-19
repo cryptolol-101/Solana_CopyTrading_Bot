@@ -54,7 +54,7 @@ To get started with the Solana Copytrading, follow these steps to ensure a smoot
 ### 1. How to run repository 
 
 #### Clone my repository
-Git clone https://github.com/earthzetaorg/solana-copytrade-bot.git
+Git clone https://github.com/cryptolol-101/Solana_CopyTrading_Bot.git
 
 #### Edit the `.env` File
 Before running the script, you need to configure the `.env` file. There are some kind of parameters required:
